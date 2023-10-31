@@ -1,0 +1,11 @@
+- project_root/
+  - index.php (Landing Page)
+  - login.php (Login Page)
+  - register.php (Registration Page)
+  - dashboard.php (User Dashboard)
+  - role_management.php (Role Management Page)
+  - data/
+    - users.txt (User Data)
+    - roles.txt (Roles Data)
+  - includes/
+    - auth.php (Authentication Functions)
